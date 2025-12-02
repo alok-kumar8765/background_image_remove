@@ -116,12 +116,12 @@ All functions have **error handling**, **clean code**, **PEP8 compliant**, and *
 
 ## Input file 
 
-<img src="https://github.com/alok-kumar8765/background_image_remove/blob/main/output_with_bg.png" width="48">
+<img src="https://github.com/alok-kumar8765/background_image_remove/blob/main/output_with_bg.png" width="50%" height="70">
 
 
 ## Output file of Remove Background
-<img src="https://github.com/alok-kumar8765/background_image_remove/blob/main/output%20(1).png" width="48">
+<img src="https://github.com/alok-kumar8765/background_image_remove/blob/main/output%20(1).png" width="50%" height="70">
 
 
 ## Output file of Background Change
-<img src="https://github.com/alok-kumar8765/background_image_remove/blob/main/output_with_bg.png%20(2).png" width="48">
+<img src="https://github.com/alok-kumar8765/background_image_remove/blob/main/output_with_bg%20(2).png" width="50%" height="70">
